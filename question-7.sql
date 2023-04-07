@@ -1,4 +1,3 @@
 UPDATE persons
-SET city = "Tusla"
-WHERE city = "Sacramento";
-
+SET city = 'Tusla'
+WHERE city = 'Sacramento';
